@@ -7,5 +7,10 @@
   },
   "devDependencies": {
     "nuxt3": "latest"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^1.25.1",
+    "install": "^0.13.0",
+    "npm": "^8.1.1"
   }
 }

@@ -1,6 +1,11 @@
+<script setup>
+const greeting = 'Nuxt 3 Supabase TodoMVC '
+
+</script>
+
+
 <template>
   <div>
-    <!-- Remove this component to get started! -->
-    <NuxtWelcome />
+<h1>{{ greeting }}</h1>
   </div>
 </template>
